@@ -10,7 +10,7 @@ import myRestaurant from "../assets/my-restaurant.png";
 import cropOptima from "../assets/crop-optima.png";
 
 export const links = {
-  cv: "https://drive.google.com/file/d/1yF67vULpzJTit5lYtEzjAAiNINf9OSCy/view?usp=sharing",
+  cv: "https://drive.google.com/file/d/15ee02GFrgVH3gBXAkYRV7mTgfh-m3iEa/view?usp=sharing",
   whatsapp: "https://wa.me/6287898902254",
   github: "https://github.com/panduwjaya",
   linkedin: "https://www.linkedin.com/in/panduwijya/",
@@ -46,6 +46,7 @@ export const skills = [
   "Flutter",
   "UI/UX Design",
   "Express JS",
+  "MySQL",
 ];
 
 export const projects = [
