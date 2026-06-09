@@ -47,6 +47,7 @@ export const skills = [
   "UI/UX Design",
   "Express JS",
   "MySQL",
+  "Docker",
 ];
 
 export const projects = [
